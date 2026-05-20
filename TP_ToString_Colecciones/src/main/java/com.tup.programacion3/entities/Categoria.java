@@ -7,7 +7,7 @@ import java.util.Objects;
  * Identidad de negocio: el NOMBRE de la categoría.
  * Por eso equals() y hashCode() se basan en 'nombre'.
  */
-public class Categoria extends com.utn.tp.model.Base {
+public class Categoria extends com.tup.programacion3.entities.Base {
 
     private String nombre;
     private String descripcion;
