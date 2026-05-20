@@ -1,5 +1,8 @@
+.gradle/
+build/
 out/
-.idea/workspace.xml
-.idea/usage.statistics.xml
-.idea/shelf/
+bin/
+target/
+.idea/
+*.iml
 *.class
